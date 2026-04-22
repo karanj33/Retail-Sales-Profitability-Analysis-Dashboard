@@ -115,3 +115,6 @@ Average delivery time helps evaluate shipping and logistics performance.
 - Power BI
 - DAX
 - Excel
+
+<img width="1520" height="795" alt="{999D8F86-3B16-47A0-91BF-5E693F4500DF}" src="https://github.com/user-attachments/assets/c41a3648-a00e-42cc-a39f-a684b3a43276" />
+
